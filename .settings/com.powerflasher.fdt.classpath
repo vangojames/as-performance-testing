@@ -9,4 +9,5 @@
     <AS3Classpath generateProblems="true" sdkBased="false" type="source" useAsSharedCode="false">libs/ROBOTLEGS_EXTENSIONS/src</AS3Classpath>
     <AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/player/{playerVersion}/playerglobal.swc</AS3Classpath>
     <AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/flex.swc</AS3Classpath>
+    <AS3Classpath generateProblems="false" sdkBased="false" type="lib" useAsSharedCode="false">bin/PerformanceTesting.swc</AS3Classpath>
 </AS3Classpath>
