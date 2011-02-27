@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="com.powerflasher.fdt.ui.CompcGroup">
-<stringAttribute key="ARGUMENTS" value=" -target-player={playerVersion}&#13;&#10; -include-sources {project}/src/com/vango/performance"/>
+<stringAttribute key="ARGUMENTS" value=" -target-player={playerVersion}&#13;&#10; -include-sources {project}/src&#13;&#10; -include-sources {project}/libs/ROBOTLEGS_EXTENSIONS/src"/>
 <stringAttribute key="LAUNCHER_DEPENDENCIES" value="[Self]"/>
-<stringAttribute key="OUTPUT" value="bin/PerformanceTestingV1.0.swc"/>
+<stringAttribute key="OUTPUT" value="bin/PerformanceTestingUIv1.0.swc"/>
 <booleanAttribute key="PASS_CP" value="false"/>
 <booleanAttribute key="PASS_RSLS" value="false"/>
-<booleanAttribute key="PASS_SWCS" value="false"/>
+<booleanAttribute key="PASS_SWCS" value="true"/>
 <stringAttribute key="PROJECT_NAME" value="PerformanceTesting"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <listEntry value="/PerformanceTesting"/>
