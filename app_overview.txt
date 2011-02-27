@@ -1,0 +1,9 @@
+View
+
+show current overall progress
+show current test progress
+show individual tests
+allow test result comparisons
+
+Show currently selected test result view
+Show current comparisons in window
